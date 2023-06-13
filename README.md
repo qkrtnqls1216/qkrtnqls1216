@@ -1,8 +1,8 @@
 ### 🤞 Nice way to meet me
 <p>
-  <a href="https://blog.naver.com/s_bbuddi" target="_blank"><img src=""/></a>
-  <a href="" target="_blank"><img src=""/></a>  
   <a href="qkrtnqls1216@gmail.com" target="_blank"><img src=""/></a>
+  <a href="https://blog.naver.com/s_bbuddi" target="_blank"><img src=""/></a>
+  <a href="https://velog.io/@ppippi" target="_blank"><img src=""/></a>  
 </p>
 
 <p>
@@ -13,10 +13,17 @@
 ### 💪 Skills
 #### Platforms & Languages
 <p>
+  <img src="https://img.shields.io/badge/C-0080FF?style=flat-square&logo=c&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/python-FFFF00?style=flat-square&logo=python&logoColor=blue"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-E5FFCC?style=flat-square&logo=javascript&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-FF8000?style=flat-square&logo=c&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/HTML-FF8000?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XML-FF9933?style=flat-square&logo=python&logoColor=gray"/>
 </p>
