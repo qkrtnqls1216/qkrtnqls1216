@@ -13,6 +13,7 @@
 ### 💪 Skills
 #### Platforms & Languages
 <p>
+  <img src="[https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=blac](https://www.flaticon.com/free-icon/java_5968282?term=java&page=1&position=2&origin=search&related_id=5968282)k"/>
   <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 </p>
