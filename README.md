@@ -4,7 +4,7 @@
 </P>
    qkrtnqls991216@gmail.com
  <p>
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ppippi)]([벨로그링크](https://velog.io/@ppippi))
+  (https://velog.io/@ppippi)
   <a href="https://blog.naver.com/s_bbuddi" target="_blank"><img src=""/></a>
   <a href="https://velog.io/@ppippi" target="_blank"><img src=""/></a>  
 </p>
