@@ -1,12 +1,15 @@
-### 🤞 Nice way to meet me
+<div align=center>
+ ✋ Nice way to meet me
 <p>
-  <img src="https://img.shields.io/badge/google-000099?style=flat-square&logo=google&logoColor=white"/>
+  <h4> 📧 qkrtnqls991216@gmail.com 📧 <h4>
 </P>
-   qkrtnqls991216@gmail.com
  <p>
+      <h4>📘 Velog <h4>
   (https://velog.io/@ppippi)
-  <a href="https://blog.naver.com/s_bbuddi" target="_blank"><img src=""/></a>
-  <a href="https://velog.io/@ppippi" target="_blank"><img src=""/></a>  
+      <h4>📙 Naver Vlog <h4>
+  (https://blog.naver.com/s_bbuddi)
+      <h4>📗 Notion <h4>
+  (https://www.notion.so/475e468732b54bf5a99b619be9a027c1)
 </p>
 
 <p>
@@ -14,7 +17,7 @@
 </p>
 
 
-### 💪 Skills 💪
+### 🔨 Stack 🔨
 <p>
   <img src="https://img.shields.io/badge/C-0080FF?style=flat-square&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-FFFF00?style=flat-square&logo=python&logoColor=white"/>
@@ -30,3 +33,4 @@
   <img src="https://img.shields.io/badge/HTML-FF8000?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/XML-FF9933?style=flat-square&logo=python&logoColor=white"/>
 </p>
+</div>
