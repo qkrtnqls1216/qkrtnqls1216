@@ -1,6 +1,6 @@
 ### 🤞 Nice way to meet me
 <p>
-  <a href="qkrtnqls1216@gmail.com" target="_blank"><img src=""/></a>
+  <a href="qkrtnqls1216@gmail.com" target="_blank"><img src="https://img.shields.io/badge/google-000099?style=flat-square&logo=google&logoColor=white"/></a>
   <a href="https://blog.naver.com/s_bbuddi" target="_blank"><img src=""/></a>
   <a href="https://velog.io/@ppippi" target="_blank"><img src=""/></a>  
 </p>
@@ -13,8 +13,8 @@
 ### 💪 Skills
 #### Platforms & Languages
 <p>
-  <img src="https://img.shields.io/badge/C-0080FF?style=flat-square&logo=c&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/python-FFFF00?style=flat-square&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/C-0080FF?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-FFFF00?style=flat-square&logo=python&logoColor=white"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
