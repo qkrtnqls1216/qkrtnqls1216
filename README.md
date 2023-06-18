@@ -9,7 +9,7 @@
       <h4>📙 Naver Vlog <h4>
   (https://blog.naver.com/s_bbuddi)
       <h4>📗 Notion <h4>
-  (https://www.notion.so/475e468732b54bf5a99b619be9a027c1)
+  ()
 </p>
 
 <p>
