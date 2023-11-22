@@ -1,36 +1,27 @@
 <div align=center>
- ✋ Nice way to meet me
+ ✋ 안녕하세요. 신입 데이텅 엔지니어 박수빈입니다.
 <p>
+  <h4>📞 010-4584-9412</h4>
   <h4> 📧 qkrtnqls991216@gmail.com 📧 <h4>
 </P>
- <p>
-      <h4>📘 Velog <h4>
-  (https://velog.io/@ppippi)
-      <h4>📙 Naver Vlog <h4>
-  (https://blog.naver.com/s_bbuddi)
-      <h4>📗 Notion <h4>
-  (https://www.notion.so/DAY10-d56c153cb2a84dffb01614a7abf0cd64)
-</p>
-
-<p>
-  👋&nbsp; Hi there!✨ <br/><br/>
-</p>
 
 
 ### 🔨 Stack 🔨
 <p>
-  <img src="https://img.shields.io/badge/C-0080FF?style=flat-square&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-FFFF00?style=flat-square&logo=python&logoColor=white"/>
-</p>
-<p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-E5FFCC?style=flat-square&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/CSS-FF8000?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-FF8000?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XML-FF9933?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 </div>
