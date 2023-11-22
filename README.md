@@ -27,6 +27,6 @@
 
 ### 👩🏻‍💻 포트폴리오
 <p>
-  <a href="https://qkrtnqls1216.github.io/">👩🏻‍💻 포트폴리오 보러가기 </a>
+  <a href="https://github.com/qkrtnqls1216/qkrtnqls1216">👩🏻‍💻 포트폴리오 보러가기 </a>
 </p>
 </div>
